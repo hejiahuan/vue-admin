@@ -1,0 +1,29 @@
+{
+  "name": "backsys",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "core-js": "^3.6.4",
+    "vue": "^2.6.11",
+    "vue-ls": "^3.2.1",
+    "vuex": "^3.3.0",
+    "vuex-persistedstate": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.3.0",
+    "@vue/cli-service": "^4.3.0",
+    "axios": "^0.19.2",
+    "babel-plugin-component": "^1.1.1",
+    "babel-plugin-syntax-dynamic-import": "^6.18.0",
+    "element-ui": "^2.13.1",
+    "node-sass": "^4.14.0",
+    "sass-loader": "^8.0.2",
+    "vue-axios": "^2.1.5",
+    "vue-router": "^3.1.6",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
